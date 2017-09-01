@@ -30,6 +30,6 @@ ext {
     targetSdkVersion = 26
 
     arouterMain = 'com.alibaba:arouter-api:1.2.2'
-    arouterCompiler = 'com.alibaba:arouter-compiler:1.2.2'
+    arouterCompiler = 'com.alibaba:arouter-compiler:1.1.3'
 
 }
